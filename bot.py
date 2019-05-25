@@ -29,4 +29,4 @@ async def hour_loop():
 		await asyncio.sleep(60 * 60)
 	else:
 		await asyncio.sleep(60 * 5)
-client.run("NTc5MzA5OTYzMjAyMDAyOTY2.XOASvA.bFth6iTb4kkfgM7I4yB0lUroYVo")
+client.run("")
